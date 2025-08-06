@@ -1,47 +1,77 @@
-# SecurePass
-SecurePass Vault is a **lightweight, offline password manager** built for users who want **simplicity**, **privacy**, and **complete local control** of their credentials — without depending on browser-based or cloud-stored solutions.
+# 🔐 SecurePass Vault
 
-✅ v1.0.0 – Initial Release (August 2025)
+**SecurePass Vault** is a lightweight, offline password manager built for users who prioritize **simplicity**, **privacy**, and **complete local control** — with no reliance on browsers or cloud-based storage.
 
-✨ Features
+---
 
-•	Local Password Storage: All credentials are encrypted and stored locally. No cloud dependency.
+## 📦 Version
+**✅ v1.0.0 – Initial Release (August 2025)**
 
-•	Add / View / Delete Entries: Full vault management for your login credentials.
+---
 
-•	Encrypted Storage: Uses AES/Fernet encryption for secure password handling.
+## ✨ Features
 
-•	Password Generator: Generate complex and secure passwords with custom length and character options.
+- ✅ **Local Password Storage**  
+  All credentials are encrypted and stored **locally** — no cloud dependency.
 
-•	Copy-to-Clipboard Support: Copy usernames and passwords with one click.
+- 🔒 **AES Encryption (Fernet)**  
+  Secure encryption for all your passwords and sensitive data.
 
-•	Simulated Typing: Automatically types username and password into login fields for seamless logins.
+- ➕ **Add / View / Delete Entries**  
+  Full vault management for your login credentials.
 
-•	Search & Filter Vault: Easily find credentials using the search box.
+- 🧠 **Built-in Password Generator**  
+  Generate secure, complex passwords with custom length and character options.
 
-•	Show/Hide Passwords: Toggle visibility of stored passwords.
+- 📋 **Copy to Clipboard**  
+  Instantly copy usernames and passwords with a single click.
 
-•	Date Tracking: Each entry records the last updated date.
+- 🎯 **Simulated Typing**  
+  Auto-types your username and password into login fields.
 
-•	Clean UI: Tabbed interface for vault access and new entry creation.
+- 🔍 **Search & Filter Vault**  
+  Quickly find credentials using search.
 
-•	Fully Offline and Free: No internet access required. Free for personal use.
+- 👁️ **Show / Hide Passwords**  
+  Toggle visibility to view or hide saved passwords.
 
-✅ v1.0.0 – Usage
+- 🗓️ **Last Updated Tracking**  
+  Every entry records the most recent update date.
 
-Download using the link below and copy to your final folder. If Windows Defender gives any message click continue.
+- 🧩 **Tabbed Interface**  
+  Clean UI with separate tabs for vault access and adding entries.
 
-In the first run, the software creates local secure encrypted files. In case you want to move the software to another location, 
+- 📴 **Fully Offline & Free**  
+  Works without internet. Free for personal use.
 
-ensure that you move the entire folder structure including the files. If you do not do that, or miss files when moving, software will assume that you 
+---
 
-are starting fresh and old password data will be lost. It may also fail citing corrupt data. 
+## 🧑‍💻 Getting Started
 
-You can however use the software in a new folder and it creates required encryption files once again. 
+> ⚠️ If Windows Defender prompts a warning, click **"More info" > "Run anyway"**.
 
+1. 📥 **Download** the app using the link provided.
+2. 📂 **Copy** the folder to your desired location.
+3. 🚀 On first run, SecurePass will create local encrypted files.
 
-✅ Advanced version:
+> 🧠 **Important**:  
+> When moving the software to a different location, ensure the **entire folder and all files** are moved.  
+> If essential files are missing, the app will assume a **fresh install** and your previous vault will not load (or may show a corrupt data warning).
 
-This software is for personal use and has MIT license. An enterprise level secure version is in the works and will be released later this year. 
+You may restart in a new folder, and the app will recreate its secure encryption files.
 
+---
+
+## 🚀 Coming Soon: Advanced Version
+
+SecurePass Vault is released under the **MIT License** for **personal use**.  
+An **enterprise-level secure edition** with multi-device sync, master password, and cloud-backup options is **in the works** and will be released **later this year**.
+
+---
+
+## 🔗 Stay Updated
+
+📬 For updates, support, or early access to the advanced version, follow the project or reach out via the Contact tab in the app.
+
+---
 
