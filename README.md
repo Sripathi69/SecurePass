@@ -2,6 +2,7 @@
 SecurePass Vault is a **lightweight, offline password manager** built for users who want **simplicity**, **privacy**, and **complete local control** of their credentials — without depending on browser-based or cloud-stored solutions.
 
 ✅ v1.0.0 – Initial Release (August 2025)
+
 ✨ Features
 
 •	Local Password Storage: All credentials are encrypted and stored locally. No cloud dependency.
