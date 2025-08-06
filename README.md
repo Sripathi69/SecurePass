@@ -62,6 +62,15 @@ You may restart in a new folder, and the app will recreate its secure encryption
 
 ---
 
+## ⬇️ Download & 🎥 Demo
+
+- 📥 **[Download from here](https://github.com/your-username/securepass-vault/releases/latest)**  
+  *(Download the latest version from GitHub Releases)*
+
+- ▶️ **[Watch Demo Video](https://www.youtube.com/watch?v=your-video-id)**  
+  *(Quick tour and usage guide)*
+---
+
 ## 🚀 Coming Soon: Advanced Version
 
 SecurePass Vault is released under the **MIT License** for **personal use**.  
