@@ -7,6 +7,10 @@
 ## 📦 Version
 **✅ v1.0.0 – Initial Release (August 2025)**
 
+> **Note:** This is the original guide from v1.0.0.  
+> For the latest changes in v1.0.1, see the ([update notes](https://github.com/Sripathi69/SecurePassVault/releases/tag/v1.0.1)).
+
+
 ---
 
 ## ✨ Features
