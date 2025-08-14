@@ -68,7 +68,7 @@ You may restart in a new folder, and the app will recreate its secure encryption
 
 ## ⬇️ Download & 🎥 Demo
 
-- 📥 **[Download from here]((https://github.com/Sripathi69/SecurePassVault/archive/refs/tags/v1.0.1.zip))**  
+- 📥 **[Download from here](https://github.com/Sripathi69/SecurePassVault/archive/refs/tags/v1.0.1.zip))**  
   *(Download the latest version from GitHub Releases)*
 
 - ▶️ **[Watch Demo Video](https://youtu.be/qfzjHx4zEkw))**  
